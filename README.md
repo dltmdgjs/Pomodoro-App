@@ -11,11 +11,16 @@
  - 휴식 시간 종료 시 타이머 정지 및 시간 초기화(25:00)
 
 # 앱 시작 시 상태 (pause)
-<img src = "https://github.com/user-attachments/assets/b6f9f75b-4d47-4892-a4d3-ef73714c9742" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/a8fb8d7b-b42f-4493-ab50-85b21d1db16c" width="30%" height="30%">
 
 # play버튼 활성화 상태 (focus time)
-<img src = "https://github.com/user-attachments/assets/3a8e8ef1-b90c-407a-9487-f91f08c8e14e" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/e1bf7ac5-b985-4847-8bcf-8c3ccbeba7b2" width="30%" height="30%">
 
 # 휴식 상태 (rest time)
-<img src = "https://github.com/user-attachments/assets/0e68d81e-0187-49ea-9c3c-bc7f2f55f7d8" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/e26bab51-a4de-4187-9b18-a8ce74b9d97f" width="30%" height="30%">
+
+
+
+
+
 
