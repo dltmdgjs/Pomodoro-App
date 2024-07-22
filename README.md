@@ -14,7 +14,6 @@
 <img src = "https://github.com/user-attachments/assets/b6f9f75b-4d47-4892-a4d3-ef73714c9742" width="30%" height="30%">
 
 # play버튼 활성화 상태 (focus time)
-https://github.com/user-attachments/assets/3a8e8ef1-b90c-407a-9487-f91f08c8e14e
 <img src = "https://github.com/user-attachments/assets/3a8e8ef1-b90c-407a-9487-f91f08c8e14e" width="30%" height="30%">
 
 # 휴식 상태 (rest time)
