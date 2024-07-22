@@ -1,16 +1,11 @@
 # pomodoro
 
-A new Flutter project.
+노마드 코더 플러터 무료 강의에서 설명한 pomodoro 어플리케이션 입니다.
+기존 기능에서 '휴식시간'을 더하였습니다. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[휴식시간]
+ - 휴식시간은 (05:00) 분으로 설정함.
+ - 휴식시간은 집중시간이 종료된 후, 즉 (00:00) 이후 자동시작.
+ - 휴식시간 시 타이머 위 텍스트가 'FOCUS TIME'에서 'REST TIME' 으로 변경됨.
+ - 휴식시간 시 배경이 붉은색에서 푸른색으로 변경됨.
+ - 휴식 시간 종료 시 타이머 정지 및 시간 초기화(25:00)
